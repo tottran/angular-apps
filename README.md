@@ -1,2 +1,0 @@
-# angular-app
- Implement logic
